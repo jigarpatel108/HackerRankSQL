@@ -1,2 +1,2 @@
 # HackerRankSQL
-A repository of all my Hacker Rank challenge submissions
+A repository of all my SQL queries submitted in Hacker Rank challenges
